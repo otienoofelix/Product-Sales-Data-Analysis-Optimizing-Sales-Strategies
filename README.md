@@ -1,5 +1,5 @@
-### **Product Sales Data Analysis: Optimizing Sales Strategies
-Project Overview** <br/>
+### Product Sales Data Analysis: Optimizing Sales Strategies
+Project Overview <br/>
 This project analyzes six weeks of sales data to determine the most effective sales methods for customer acquisition and revenue growth. Using data validation, exploratory data analysis, and business metric evaluation, the project provides insights into optimizing sales strategies.<br/>
 <br/>
 **Features**<br/>
