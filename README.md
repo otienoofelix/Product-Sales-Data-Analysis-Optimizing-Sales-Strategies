@@ -26,7 +26,7 @@ After data validation and cleaning, 13,924 rows remain for analysis.<br/>
 To explore and analyze the data, follow these steps:<br/>
 <br/>
 **1. Clone the Repository**<br/>
-git clone<br/>
+git clone https://github.com/otienoofelix/Product-Sales-Data-Analysis-Optimizing-Sales-Strategies.git<br/>
 cd product-sales-analysis<br/>
 <br/>
 **2. Install Dependencies**<br/>
